@@ -1,0 +1,13 @@
+# Requirements for inference
+transformers==4.30.2
+omegaconf==2.2.0
+hydra-core==1.0.2
+cloudpickle
+opencv-python
+librosa
+termcolor
+# Datasets library
+datasets
+torchcodec==0.6.0
+# Extra requirements for training
+tensorboardX
